@@ -47,7 +47,7 @@ def get_time(time_string):
     return time.mktime(data)
 
 #start of our program
-api = NorenApiPy()
+api = EmkayGlobalApi()
 
 #use following if yaml isnt used
 #user    = <uid>

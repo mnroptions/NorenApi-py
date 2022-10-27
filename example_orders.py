@@ -42,7 +42,7 @@ def open_callback():
 
 
 #start of our program
-api = NorenApiPy()
+api = EmkayGlobalApi()
 
 #use following if yaml isnt used
 #user    = <uid>

@@ -1725,7 +1725,7 @@ Sample Failure Response :
      "emsg":"Session Expired : Invalid Session Key"
 }
 
-#### <a name="md-daily_price_series "></a> EOD_Chart_Data(Symbol name, From date, To date):
+#### <a name="md-EOD_Chart_Data"></a> EOD_Chart_Data(Symbol name, From date, To date):
 gets the chart date for the symbol
 
 Example:
